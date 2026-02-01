@@ -1,5 +1,63 @@
-# 💫 About Me:
-👋 Hi, I’m Lena<br><br>I’m a humanitarian professional transitioning into tech, with a strong interest in backend development, programming, and game development.<br>I have ~5 years of experience in international NGOs (grants, partnerships, coordination) and I’m currently building solid technical foundations to move toward a more technical role.<br><br>🔭 What I’m currently working on<br><br>Learning C programming (42 School curriculum & personal projects)<br>Learning Python and backend development<br>Building a side project using FastAPI (API design, backend logic, structure)<br>Exploring how tech can support humanitarian and social impact projects<br><br>🌱 What I’m currently learning<br><br>C (memory management, pointers, structs)<br>Python for backend development<br>FastAPI (routes, schemas, async basics)<br>Algorithms & data structures<br>Debugging, clean code, and how to think like a developer<br><br>👯 What I’m looking to collaborate on<br><br>Beginner-friendly backend or C projects<br>Python / FastAPI projects<br>Small tools, games, or utilities<br>Open-source projects with social or humanitarian impact<br>Learning-oriented collaborations <br><br>🤔 What I’m looking for help with<br><br>Code reviews (C & Python)<br>Backend architecture & API design<br>Best practices & project organization<br>Career transition advice (NGO → tech)<br><br>💬 Ask me about<br><br>Humanitarian work & partnerships<br>Tech for social good<br>Learning backend development from scratch<br>Career transitions<br>Life at 42 School<br><br>⚡ Fun fact<br><br>I practice Muay Thai 🥊 and horse riding 🐎<br>I’m into 2D/3D animation and game worlds, and learning to draw on the side
+# 👋 Hi, I’m Lena
+
+I’m a humanitarian professional transitioning into tech, with a strong interest in **backend development, programming, and game development**.  
+I have ~5 years of experience in international NGOs (grants, partnerships, coordination) and I’m currently building solid technical foundations to move toward a more technical role.
+
+---
+
+## 🔭 What I’m currently working on
+
+- Learning **C programming** (42 School curriculum & personal projects)
+- Learning **Python** and **backend development**
+- Building a side project using **FastAPI** (API design, backend logic, structure)
+- Exploring how tech can support **humanitarian and social impact projects**
+
+---
+
+## 🌱 What I’m currently learning
+
+- C (memory management, pointers, structs)
+- Python for backend development
+- FastAPI (routes, schemas, async basics)
+- Algorithms & data structures
+- Debugging, clean code, and how to think like a developer
+
+---
+
+## 👯 What I’m looking to collaborate on
+
+- Beginner-friendly **backend or C projects**
+- **Python / FastAPI** projects
+- Small tools, games, or utilities
+- Open-source projects with **social or humanitarian impact**
+- Learning-oriented collaborations
+
+---
+
+## 🤔 What I’m looking for help with
+
+- Code reviews (C & Python)
+- Backend architecture & API design
+- Best practices & project organization
+- Career transition advice (NGO → tech)
+
+---
+
+## 💬 Ask me about
+
+- Humanitarian work & partnerships
+- Tech for social good
+- Learning backend development from scratch
+- Career transitions
+- Life at 42 School
+
+---
+
+## ⚡ Fun fact
+
+- I practice **Muay Thai** 🥊 and **horse riding** 🐎  
+- I’m into **2D/3D animation and game worlds**, and learning to draw on the side
+
 
 
 ## 🌐 Socials:
