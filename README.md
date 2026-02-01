@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m Lena<br><br>I’m a humanitarian professional transitioning into tech, with a strong interest in backend development, programming, and game development.<br>I have ~5 years of experience in international NGOs (grants, partnerships, coordination) and I’m currently building solid technical foundations to move toward a more technical role.<br><br>🔭 What I’m currently working on<br><br>Learning C programming (42 School curriculum & personal projects)<br>Learning Python and backend development<br>Building a side project using FastAPI (API design, backend logic, structure)<br>Exploring how tech can support humanitarian and social impact projects<br><br>🌱 What I’m currently learning<br><br>C (memory management, pointers, structs)<br>Python for backend development<br>FastAPI (routes, schemas, async basics)<br>Algorithms & data structures<br>Debugging, clean code, and how to think like a developer<br><br>👯 What I’m looking to collaborate on<br><br>Beginner-friendly backend or C projects<br>Python / FastAPI projects<br>Small tools, games, or utilities<br>Open-source projects with social or humanitarian impact<br>Learning-oriented collaborations <br><br>🤔 What I’m looking for help with<br><br>Code reviews (C & Python)<br>Backend architecture & API design<br>Best practices & project organization<br>Career transition advice (NGO → tech)<br><br>💬 Ask me about<br><br>Humanitarian work & partnerships<br>Tech for social good<br>Learning backend development from scratch<br>Career transitions<br>Life at 42 School<br><br>⚡ Fun fact<br><br>I practice Muay Thai 🥊 and horse riding 🐎<br>I’m into 2D/3D animation and game worlds, and learning to draw on the side
 
-<!--
-**lenasticot/lenasticot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lena.odum1@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lenasticot&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lenasticot&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenasticot&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lenasticot&icon=10&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
