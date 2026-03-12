@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Lena
+# Hi, I’m Lena
 
 I’m a humanitarian professional transitioning into tech, with a strong interest in **backend development, programming, and game development**.  
 I have ~5 years of experience in international NGOs (grants, partnerships, coordination) and I’m currently building solid technical foundations to move toward a more technical role.
 
 ---
 
-## 🔭 What I’m currently working on
+## What I’m currently working on
 
 - Learning **C programming** (42 School curriculum & personal projects)
 - Learning **Python** and **backend development**
@@ -14,7 +14,7 @@ I have ~5 years of experience in international NGOs (grants, partnerships, coord
 
 ---
 
-## 🌱 What I’m currently learning
+## What I’m currently learning
 
 - C (memory management, pointers, structs)
 - Python for backend development
@@ -24,7 +24,7 @@ I have ~5 years of experience in international NGOs (grants, partnerships, coord
 
 ---
 
-## 👯 What I’m looking to collaborate on
+## What I’m looking to collaborate on
 
 - Beginner-friendly **backend or C projects**
 - **Python / FastAPI** projects
@@ -34,7 +34,7 @@ I have ~5 years of experience in international NGOs (grants, partnerships, coord
 
 ---
 
-## 🤔 What I’m looking for help with
+## What I’m looking for help with
 
 - Code reviews (C & Python)
 - Backend architecture & API design
@@ -43,7 +43,7 @@ I have ~5 years of experience in international NGOs (grants, partnerships, coord
 
 ---
 
-## 💬 Ask me about
+## Ask me about
 
 - Humanitarian work & partnerships
 - Tech for social good
@@ -52,12 +52,6 @@ I have ~5 years of experience in international NGOs (grants, partnerships, coord
 - Life at 42 School
 
 ---
-
-## ⚡ Fun fact
-
-- I practice **Muay Thai** 🥊 and **horse riding** 🐎  
-- I’m into **2D/3D animation and game worlds**, and learning to draw on the side
-
 
 
 ## 🌐 Socials:
